@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758835897620,
+  "timestamp": 1758838612834,
   "index": "/pwacristian/index.csr.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/pwacristian/favicon.ico",
         "/pwacristian/index.csr.html",
         "/pwacristian/index.html",
-        "/pwacristian/main-P626C7YJ.js",
+        "/pwacristian/main-B4LFBIVP.js",
         "/pwacristian/manifest.webmanifest",
         "/pwacristian/styles-5INURTSO.css"
       ],
@@ -28,6 +28,13 @@
         "ignoreVary": true
       },
       "urls": [
+        "/pwacristian/assets/img/avataaars.svg",
+        "/pwacristian/assets/img/portfolio/cabin.png",
+        "/pwacristian/assets/img/portfolio/cake.png",
+        "/pwacristian/assets/img/portfolio/circus.png",
+        "/pwacristian/assets/img/portfolio/game.png",
+        "/pwacristian/assets/img/portfolio/safe.png",
+        "/pwacristian/assets/img/portfolio/submarine.png",
         "/pwacristian/icons/icon-128x128.png",
         "/pwacristian/icons/icon-144x144.png",
         "/pwacristian/icons/icon-152x152.png",
@@ -42,6 +49,13 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/pwacristian/assets/img/avataaars.svg": "5f78a9db8240e4af496325203e3f4e844bcab3c7",
+    "/pwacristian/assets/img/portfolio/cabin.png": "5ee7a53260c426e56b2778e54f9cd75ba43c2546",
+    "/pwacristian/assets/img/portfolio/cake.png": "a86e89bd4608e1c42d97725d051e458976176eb5",
+    "/pwacristian/assets/img/portfolio/circus.png": "734d64dd23e50fc4357df6662b7d460b82554fc5",
+    "/pwacristian/assets/img/portfolio/game.png": "e77891c87c21b2191ca8ad39a510193962bcf025",
+    "/pwacristian/assets/img/portfolio/safe.png": "630eff3357a16c78cb6b6ab1bea8abea066eaaa1",
+    "/pwacristian/assets/img/portfolio/submarine.png": "47a68fc616ea560e28c8fe0fff4a0828fdb7b377",
     "/pwacristian/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/pwacristian/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/pwacristian/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
@@ -51,9 +65,9 @@
     "/pwacristian/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/pwacristian/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/pwacristian/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/pwacristian/index.csr.html": "c4e4bab2404fb066d8fa058848145b6e26223a0d",
-    "/pwacristian/index.html": "1c66fe3423fb87aa0382866f0ab3f6234b4efed9",
-    "/pwacristian/main-P626C7YJ.js": "30d9f3f616aefc9a1d78aab88552426d68d6ca21",
+    "/pwacristian/index.csr.html": "7e37c76dfb3ed8c2eedf5b587bce0bf3685ef580",
+    "/pwacristian/index.html": "90b7c8b9e803f5dc30afbd66eba2ad0b2ac1d047",
+    "/pwacristian/main-B4LFBIVP.js": "cc82c0b86c2eed58e3710798858395f6d7c7918e",
     "/pwacristian/manifest.webmanifest": "fdd1277a64481c2776aa00eb961e7d76a0d47125",
     "/pwacristian/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
